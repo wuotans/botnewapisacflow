@@ -1,0 +1,12 @@
+services:
+  carvalima:
+    build: .
+    volumes:
+      - /home/Carvalima/NOTAS:/mnt/NOTAS
+    env_file:
+      - /home/Carvalima/GitHub/.env
+    deploy:
+      resources:
+        limits:
+          memory: 1000M
+          cpus: '0.8'

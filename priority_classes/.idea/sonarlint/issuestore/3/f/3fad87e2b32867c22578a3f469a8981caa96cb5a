@@ -1,0 +1,8 @@
+
+tpython:S5713l"WRemove this redundant Exception class; it derives from another which is already caught.(¬í»öýÿÿÿÿ
+ppython:S3923ñ"RRemove this if statement or edit its code blocks so that they're not all the same.(¼à®Ìÿÿÿÿÿ
+<python:S125ç"Remove this commented out code.(Ç›•½ýÿÿÿÿ
+Cpython:S1481ê"%Remove the unused local variable "e".(¼–¯¸ÿÿÿÿÿ
+Cpython:S1481÷"%Remove the unused local variable "e".(¼–¯¸ÿÿÿÿÿ
+<python:S125Ý"Remove this commented out code.(éº˜°þÿÿÿÿ
+<python:S125ä"Remove this commented out code.(÷—»’úÿÿÿÿ

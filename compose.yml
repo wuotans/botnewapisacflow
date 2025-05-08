@@ -1,0 +1,48 @@
+services:
+  carvalima:
+    build: .
+    environment:
+      - PG_HOST_CARVALIMA
+      - PG_DBNAME_CARVALIMA
+      - PG_USER_CARVALIMA
+      - PG_PASSWORD_CARVALIMA
+      - PG_SSLMODE_CARVALIMA
+      - PG_PORT_CARVALIMA
+      - PG_HOST_BOTSCARVALIMA
+      - PG_DBNAME_BOTSCARVALIMA
+      - PG_USER_BOTSCARVALIMA
+      - PG_PASSWORD_BOTSCARVALIMA
+      - PG_SSLMODE_BOTSCARVALIMA
+      - PG_PORT_BOTSCARVALIMA
+      - SSW_DOMINIO
+      - SSW_CPF
+      - SSW_USUARIO
+      - SSW_SENHA
+      - SSW_UNIDADE
+      - FTP_USUARIO
+      - FTP_DAFITI_PORT
+      - FTP_DAFITI_USERNAME
+      - FTP_DAFITI_PASSWORD
+      - FTP_DAFITI_HOSTNAME
+      - WEBMAIL_USUARIO
+      - WEBMAIL_SENHA
+      - SSW_MASTER_DOMINIO
+      - SSW_MASTER_CPF
+      - SSW_MASTER_USUARIO
+      - SSW_MASTER_SENHA
+      - SSW_MASTER_UNIDADE
+      - DOMAIN_USERNAME
+      - DOMAIN_PASSWORD
+      - OPENTECH_LOGIN
+      - OPENTECH_SENHA
+      - SCALAS_HOST
+      - SCALAS_PORT
+      - SCALAS_SENHA
+      - SCALAS_USUARIO
+      - TIME_SLEEP_BOT_SCALAS
+      - SACFLOW_API_TOKEN
+    deploy:
+      resources:
+        limits:
+          memory: 1000M
+          cpus: '0.8'

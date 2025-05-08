@@ -1,0 +1,11 @@
+
+¿python:S1515c"šAdd a parameter to the parent lambda function and use variable "param" as its default value; The value of "param" might change at the next loop iteration.(µèğıÿÿÿÿ8øÓÄ‘€2
+>python:S125Ó"Remove this commented out code.(Š³Ú†8øÓÄ‘€2
+Upython:S1481ƒ"0Replace unused local variable "result" with "_".(¨õ™©şÿÿÿÿ8ûÓÄ‘€2
+Upython:S1481‹"0Replace unused local variable "result" with "_".(˜§ÙÛúÿÿÿÿ8ûÓÄ‘€2
+Upython:S1481¥"0Replace unused local variable "result" with "_".(¥¥—îÿÿÿÿÿ8ûÓÄ‘€2
+Ppython:S1481­"0Replace unused local variable "result" with "_".(Ï¼Âı8ûÓÄ‘€2
+Upython:S1481¶"0Replace unused local variable "status" with "_".(³îª ÿÿÿÿÿ8ûÓÄ‘€2
+}python:S117Æ"YRename this local variable "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë©ˆÕùÿÿÿÿ8üÓÄ‘€2
+xpython:S117É"YRename this local variable "filePath" to match the regular expression ^[_a-z][a-z0-9_]*$.( ±àë8üÓÄ‘€2
+Gpython:S1481œ"'Remove the unused local variable "img".(×—Š8üÓÄ‘€2

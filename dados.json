@@ -1,0 +1,1928 @@
+{
+    "totalTickets": "1008583",
+    "tickets": [
+        {
+            "id": 2456941,
+            "accountId": 2,
+            "contactId": 823052,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T03:57:43.978Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 677,
+            "queue": {
+                "id": 677,
+                "name": "Coleta - Cuiabá (CGB)"
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2456941-62-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 62,
+            "updatedAt": "2024-02-10T13:46:12.824Z",
+            "contact": {
+                "id": 823052,
+                "name": "Disponível",
+                "email": "",
+                "number": "556592429005",
+                "profilePicUrl": "https://pps.whatsapp.net/v/t61.24694-24/415515591_2692963404212935_6188410556696281780_n.jpg?ccb=11-4&oh=01_AdSp5pg5JnaQGnktiMJu6N9DwbSLQjPEJTY8NAO24yZL8w&oe=65E3DE29&_nc_sid=e6ed6c&_nc_cat=103"
+            },
+            "tags": [
+                {
+                    "id": 1225
+                },
+                {
+                    "id": 203
+                }
+            ]
+        },
+        {
+            "id": 2456949,
+            "accountId": 2,
+            "contactId": 708016,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T07:40:28.853Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": null,
+            "queue": {
+                "id": null,
+                "name": null
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2456949-42-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 436,
+            "updatedAt": "2024-02-10T07:45:30.865Z",
+            "contact": {
+                "id": 708016,
+                "name": "Agropecuária Ovos de Ouro",
+                "email": "",
+                "number": "556798167606",
+                "profilePicUrl": "https://pps.whatsapp.net/v/t61.24694-24/328155219_3328735744013029_3307858357325451479_n.jpg?ccb=11-4&oh=01_AdTAI8Rn-bHVVB0hwIQBvdrU6UJ_PLMog3PhGody56FOfA&oe=65D42A31&_nc_sid=e6ed6c&_nc_cat=107"
+            },
+            "tags": null
+        },
+        {
+            "id": 2456952,
+            "accountId": 2,
+            "contactId": 71222,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T08:38:17.717Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2456952-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:22.569Z",
+            "contact": {
+                "id": 71222,
+                "name": "Ben-Hur P B Santos",
+                "email": "",
+                "number": "556584455091",
+                "profilePicUrl": "sacflow/accounts/2/contacts/71222/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 944
+                },
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2456957,
+            "accountId": 2,
+            "contactId": 1084,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T09:03:01.619Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2456957-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T15:05:03.577Z",
+            "contact": {
+                "id": 1084,
+                "name": "Marcelo Lider Op Carregamento",
+                "email": "",
+                "number": "5511976621555",
+                "profilePicUrl": "sacflow/accounts/2/contacts/1084/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2456958,
+            "accountId": 2,
+            "contactId": 410692,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T09:03:01.714Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2456958-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T15:05:03.728Z",
+            "contact": {
+                "id": 410692,
+                "name": "Carla Lea",
+                "email": "",
+                "number": "556599040335",
+                "profilePicUrl": "sacflow/accounts/2/contacts/410692/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2456959,
+            "accountId": 2,
+            "contactId": 71222,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T09:03:01.764Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2456959-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T23:06:58.923Z",
+            "contact": {
+                "id": 71222,
+                "name": "Ben-Hur P B Santos",
+                "email": "",
+                "number": "556584455091",
+                "profilePicUrl": "sacflow/accounts/2/contacts/71222/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2456992,
+            "accountId": 2,
+            "contactId": 358833,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T10:05:11.107Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 190,
+            "queue": {
+                "id": 190,
+                "name": "Suporte - SAC Matriz"
+            },
+            "acceptedAt": "2024-02-10T11:35:37.742Z",
+            "archived": false,
+            "status": "closed",
+            "userId": 244,
+            "user": {
+                "id": 244,
+                "name": "Maiury Malinski - SAC Matriz"
+            },
+            "uniqueKey": "2456992-62-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 62,
+            "updatedAt": "2024-02-10T14:28:49.600Z",
+            "contact": {
+                "id": 358833,
+                "name": "Lilian Ferreira",
+                "email": "",
+                "number": "559391474187",
+                "profilePicUrl": "sacflow/accounts/2/contacts/358833/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 1225
+                },
+                {
+                    "id": 932
+                }
+            ]
+        },
+        {
+            "id": 2456995,
+            "accountId": 2,
+            "contactId": 142109,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T10:13:04.483Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": 5,
+            "summary": null,
+            "queueId": 777,
+            "queue": {
+                "id": 777,
+                "name": "Suporte entrega"
+            },
+            "acceptedAt": "2024-02-10T11:35:49.797Z",
+            "archived": false,
+            "status": "closed",
+            "userId": 244,
+            "user": {
+                "id": 244,
+                "name": "Maiury Malinski - SAC Matriz"
+            },
+            "uniqueKey": "2456995-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T00:29:11.733Z",
+            "contact": {
+                "id": 142109,
+                "name": "Patricia Do Carmo",
+                "email": "",
+                "number": "556792175458",
+                "profilePicUrl": "null"
+            },
+            "tags": [
+                {
+                    "id": 202
+                }
+            ]
+        },
+        {
+            "id": 2456998,
+            "accountId": 2,
+            "contactId": 134252,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T10:18:43.895Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2456998-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T16:20:45.827Z",
+            "contact": {
+                "id": 134252,
+                "name": "Alini Pavani",
+                "email": "",
+                "number": "556599616550",
+                "profilePicUrl": "sacflow/accounts/2/contacts/134252/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2456999,
+            "accountId": 2,
+            "contactId": 17913,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T10:18:43.995Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2456999-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T23:06:58.563Z",
+            "contact": {
+                "id": 17913,
+                "name": "Lidiane Silva",
+                "email": "",
+                "number": "556596941681",
+                "profilePicUrl": "sacflow/accounts/2/contacts/17913/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457000,
+            "accountId": 2,
+            "contactId": 1791,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T10:18:44.169Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457000-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T16:20:46.214Z",
+            "contact": {
+                "id": 1791,
+                "name": "Gleiton Gerencia CGB",
+                "email": "",
+                "number": "556596813514",
+                "profilePicUrl": "sacflow/accounts/2/contacts/1791/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457002,
+            "accountId": 2,
+            "contactId": 59788,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T10:18:45.116Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457002-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T16:20:46.868Z",
+            "contact": {
+                "id": 59788,
+                "name": "higor moto boy",
+                "email": null,
+                "number": "556581162222",
+                "profilePicUrl": "sacflow/accounts/2/contacts/59788/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457011,
+            "accountId": 2,
+            "contactId": 823075,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T10:27:54.996Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": null,
+            "queue": {
+                "id": null,
+                "name": null
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457011-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-10T22:37:56.176Z",
+            "contact": {
+                "id": 823075,
+                "name": "Helysfernando",
+                "email": "",
+                "number": "556684192633",
+                "profilePicUrl": "sacflow/accounts/2/contacts/823075/profile-picture"
+            },
+            "tags": null
+        },
+        {
+            "id": 2457038,
+            "accountId": 2,
+            "contactId": 450697,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T10:50:51.016Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 185,
+            "queue": {
+                "id": 185,
+                "name": "Rastreamento - SAC Matriz"
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457038-62-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 62,
+            "updatedAt": "2024-02-10T13:01:54.905Z",
+            "contact": {
+                "id": 450697,
+                "name": "Luana | Administrativo e Financeiro Rondosilos",
+                "email": "",
+                "number": "556999037772",
+                "profilePicUrl": "sacflow/accounts/2/contacts/450697/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 202
+                }
+            ]
+        },
+        {
+            "id": 2457040,
+            "accountId": 2,
+            "contactId": 216417,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T10:56:28.253Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 777,
+            "queue": {
+                "id": 777,
+                "name": "Suporte entrega"
+            },
+            "acceptedAt": "2024-02-10T11:36:33.775Z",
+            "archived": false,
+            "status": "closed",
+            "userId": 244,
+            "user": {
+                "id": 244,
+                "name": "Maiury Malinski - SAC Matriz"
+            },
+            "uniqueKey": "2457040-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T02:03:08.311Z",
+            "contact": {
+                "id": 216417,
+                "name": "Deonisio Jorge Andrz",
+                "email": "",
+                "number": "556599950768",
+                "profilePicUrl": "null"
+            },
+            "tags": [
+                {
+                    "id": 259
+                },
+                {
+                    "id": 202
+                }
+            ]
+        },
+        {
+            "id": 2457158,
+            "accountId": 2,
+            "contactId": 5305,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:06:13.031Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457158-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T23:06:58.639Z",
+            "contact": {
+                "id": 5305,
+                "name": "Bruno Gonçalves",
+                "email": "",
+                "number": "556599977248",
+                "profilePicUrl": "sacflow/accounts/2/contacts/5305/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457159,
+            "accountId": 2,
+            "contactId": 2189,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:06:13.102Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457159-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T23:06:58.615Z",
+            "contact": {
+                "id": 2189,
+                "name": "Marcelo Supervisor de Descarga",
+                "email": null,
+                "number": "556599292777",
+                "profilePicUrl": "sacflow/accounts/2/contacts/2189/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457160,
+            "accountId": 2,
+            "contactId": 2789,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:06:13.198Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457160-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T23:06:58.910Z",
+            "contact": {
+                "id": 2789,
+                "name": "Unidades DIRETOR Wanderson Brito",
+                "email": null,
+                "number": "556592510420",
+                "profilePicUrl": "sacflow/accounts/2/contacts/2789/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457162,
+            "accountId": 2,
+            "contactId": 1333,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:06:13.353Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457162-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T23:06:58.939Z",
+            "contact": {
+                "id": 1333,
+                "name": "Jehann Arinos Coordenador",
+                "email": "coorderadorop.cgb@carvalima.com.br",
+                "number": "556596915024",
+                "profilePicUrl": "sacflow/accounts/2/contacts/1333/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457163,
+            "accountId": 2,
+            "contactId": 5721,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:06:13.560Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457163-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T23:06:59.054Z",
+            "contact": {
+                "id": 5721,
+                "name": "Bruna",
+                "email": null,
+                "number": "556596423469",
+                "profilePicUrl": "sacflow/accounts/2/contacts/5721/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457164,
+            "accountId": 2,
+            "contactId": 2786,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:06:13.756Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457164-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T23:06:59.243Z",
+            "contact": {
+                "id": 2786,
+                "name": "Lider Washinghton",
+                "email": "",
+                "number": "556596044630",
+                "profilePicUrl": "sacflow/accounts/2/contacts/2786/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457165,
+            "accountId": 2,
+            "contactId": 572096,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:06:13.756Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457165-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T23:06:59.178Z",
+            "contact": {
+                "id": 572096,
+                "name": "Tiago Ruan",
+                "email": null,
+                "number": "556599971644",
+                "profilePicUrl": "sacflow/accounts/2/contacts/572096/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457166,
+            "accountId": 2,
+            "contactId": 302590,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:06:13.826Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 553,
+            "queue": {
+                "id": 553,
+                "name": "Notificação - NCE "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457166-102-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 102,
+            "updatedAt": "2024-02-10T23:06:59.253Z",
+            "contact": {
+                "id": 302590,
+                "name": "Arlei - Gestão de Filiais",
+                "email": "",
+                "number": "556581108844",
+                "profilePicUrl": "sacflow/accounts/2/contacts/302590/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 947
+                }
+            ]
+        },
+        {
+            "id": 2457253,
+            "accountId": 2,
+            "contactId": 818971,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:06:48.558Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": null,
+            "queue": {
+                "id": null,
+                "name": null
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457253-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-10T23:07:08.159Z",
+            "contact": {
+                "id": 818971,
+                "name": "Leandro Perotto",
+                "email": "",
+                "number": "556699793727",
+                "profilePicUrl": "null"
+            },
+            "tags": null
+        },
+        {
+            "id": 2457316,
+            "accountId": 2,
+            "contactId": 823288,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:09:01.309Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 190,
+            "queue": {
+                "id": 190,
+                "name": "Suporte - SAC Matriz"
+            },
+            "acceptedAt": "2024-02-10T11:37:02.208Z",
+            "archived": false,
+            "status": "closed",
+            "userId": 244,
+            "user": {
+                "id": 244,
+                "name": "Maiury Malinski - SAC Matriz"
+            },
+            "uniqueKey": "2457316-62-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 62,
+            "updatedAt": "2024-02-10T14:28:39.518Z",
+            "contact": {
+                "id": 823288,
+                "name": "Júnior- Ar Condicionado Split",
+                "email": "",
+                "number": "556596469485",
+                "profilePicUrl": "sacflow/accounts/2/contacts/823288/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 1225
+                },
+                {
+                    "id": 932
+                }
+            ]
+        },
+        {
+            "id": 2457346,
+            "accountId": 2,
+            "contactId": 760220,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:14:07.901Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": 5,
+            "summary": null,
+            "queueId": 777,
+            "queue": {
+                "id": 777,
+                "name": "Suporte entrega"
+            },
+            "acceptedAt": "2024-02-10T12:36:20.674Z",
+            "archived": false,
+            "status": "closed",
+            "userId": 422,
+            "user": {
+                "id": 422,
+                "name": "Cristiane M Oliveira - SAC"
+            },
+            "uniqueKey": "2457346-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T03:23:35.303Z",
+            "contact": {
+                "id": 760220,
+                "name": "GelinEni Marquetti",
+                "email": "",
+                "number": "556593443139",
+                "profilePicUrl": "sacflow/accounts/2/contacts/760220/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 259
+                },
+                {
+                    "id": 202
+                }
+            ]
+        },
+        {
+            "id": 2457347,
+            "accountId": 2,
+            "contactId": 583915,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:14:47.954Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": 5,
+            "summary": null,
+            "queueId": 777,
+            "queue": {
+                "id": 777,
+                "name": "Suporte entrega"
+            },
+            "acceptedAt": "2024-02-10T13:26:01.493Z",
+            "archived": false,
+            "status": "closed",
+            "userId": 422,
+            "user": {
+                "id": 422,
+                "name": "Cristiane M Oliveira - SAC"
+            },
+            "uniqueKey": "2457347-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T02:48:09.668Z",
+            "contact": {
+                "id": 583915,
+                "name": "JOSELEINITSCHE",
+                "email": "",
+                "number": "555599983837",
+                "profilePicUrl": "sacflow/accounts/2/contacts/583915/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 202
+                }
+            ]
+        },
+        {
+            "id": 2457351,
+            "accountId": 2,
+            "contactId": 480891,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:18:02.963Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 185,
+            "queue": {
+                "id": 185,
+                "name": "Rastreamento - SAC Matriz"
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457351-127-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 437,
+            "updatedAt": "2024-02-10T17:19:35.762Z",
+            "contact": {
+                "id": 480891,
+                "name": "sementes primaceres",
+                "email": "",
+                "number": "556696976711",
+                "profilePicUrl": "sacflow/accounts/2/contacts/480891/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 202
+                }
+            ]
+        },
+        {
+            "id": 2457354,
+            "accountId": 2,
+            "contactId": 701758,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:19:54.453Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 185,
+            "queue": {
+                "id": 185,
+                "name": "Rastreamento - SAC Matriz"
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457354-62-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 62,
+            "updatedAt": "2024-02-10T15:19:03.044Z",
+            "contact": {
+                "id": 701758,
+                "name": "AFONSOHENRIQUE",
+                "email": "",
+                "number": "556592981871",
+                "profilePicUrl": "null"
+            },
+            "tags": [
+                {
+                    "id": 202
+                },
+                {
+                    "id": 259
+                }
+            ]
+        },
+        {
+            "id": 2457361,
+            "accountId": 2,
+            "contactId": 775802,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:21:56.605Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 185,
+            "queue": {
+                "id": 185,
+                "name": "Rastreamento - SAC Matriz"
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457361-62-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 62,
+            "updatedAt": "2024-02-10T13:32:54.020Z",
+            "contact": {
+                "id": 775802,
+                "name": "Matheus Roma Mineração",
+                "email": "",
+                "number": "556696972900",
+                "profilePicUrl": null
+            },
+            "tags": [
+                {
+                    "id": 202
+                }
+            ]
+        },
+        {
+            "id": 2457364,
+            "accountId": 2,
+            "contactId": 823302,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:22:18.110Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": 5,
+            "summary": null,
+            "queueId": 777,
+            "queue": {
+                "id": 777,
+                "name": "Suporte entrega"
+            },
+            "acceptedAt": "2024-02-10T11:33:56.254Z",
+            "archived": false,
+            "status": "closed",
+            "userId": 244,
+            "user": {
+                "id": 244,
+                "name": "Maiury Malinski - SAC Matriz"
+            },
+            "uniqueKey": "2457364-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T02:33:30.075Z",
+            "contact": {
+                "id": 823302,
+                "name": "Leila Mara Maders Borges",
+                "email": "",
+                "number": "556596847360",
+                "profilePicUrl": "https://pps.whatsapp.net/v/t61.24694-24/415218900_1142612987119914_3408794949646780976_n.jpg?ccb=11-4&oh=01_AdT00Vns-HIhRRaul3QRsrNU0ON3WN0ZgDacxBxtSwhMWA&oe=65D4595C&_nc_sid=e6ed6c&_nc_cat=108"
+            },
+            "tags": [
+                {
+                    "id": 259
+                },
+                {
+                    "id": 202
+                },
+                {
+                    "id": 932
+                }
+            ]
+        },
+        {
+            "id": 2457365,
+            "accountId": 2,
+            "contactId": 820266,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:22:42.924Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": 5,
+            "summary": null,
+            "queueId": 185,
+            "queue": {
+                "id": 185,
+                "name": "Rastreamento - SAC Matriz"
+            },
+            "acceptedAt": "2024-02-10T12:34:39.782Z",
+            "archived": false,
+            "status": "closed",
+            "userId": 244,
+            "user": {
+                "id": 244,
+                "name": "Maiury Malinski - SAC Matriz"
+            },
+            "uniqueKey": "2457365-62-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 62,
+            "updatedAt": "2024-02-10T16:42:13.591Z",
+            "contact": {
+                "id": 820266,
+                "name": "Soares variedades",
+                "email": "",
+                "number": "559481336203",
+                "profilePicUrl": null
+            },
+            "tags": [
+                {
+                    "id": 1225
+                },
+                {
+                    "id": 202
+                }
+            ]
+        },
+        {
+            "id": 2457366,
+            "accountId": 2,
+            "contactId": 143360,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:22:54.100Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 185,
+            "queue": {
+                "id": 185,
+                "name": "Rastreamento - SAC Matriz"
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457366-62-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 62,
+            "updatedAt": "2024-02-10T13:23:58.809Z",
+            "contact": {
+                "id": 143360,
+                "name": "Alexandre",
+                "email": "",
+                "number": "556581128446",
+                "profilePicUrl": "https://pps.whatsapp.net/v/t61.24694-24/339513880_592316122829721_7039048917673306760_n.jpg?ccb=11-4&oh=01_AdRHTkO_lzm2IW41gOKpGcmZbbWCRjYWX3OQzYgP9j1k0g&oe=65DDA959&_nc_sid=e6ed6c&_nc_cat=104"
+            },
+            "tags": [
+                {
+                    "id": 202
+                },
+                {
+                    "id": 1085
+                }
+            ]
+        },
+        {
+            "id": 2457369,
+            "accountId": 2,
+            "contactId": 821855,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:23:51.248Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": null,
+            "queue": {
+                "id": null,
+                "name": null
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457369-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-10T23:23:52.788Z",
+            "contact": {
+                "id": 821855,
+                "name": "Heverson Rodrigues Claro",
+                "email": "",
+                "number": "556684317486",
+                "profilePicUrl": "null"
+            },
+            "tags": null
+        },
+        {
+            "id": 2457373,
+            "accountId": 2,
+            "contactId": 823304,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:25:19.479Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 777,
+            "queue": {
+                "id": 777,
+                "name": "Suporte entrega"
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457373-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T02:01:35.484Z",
+            "contact": {
+                "id": 823304,
+                "name": "Bernardo Reche",
+                "email": "",
+                "number": "556596585242",
+                "profilePicUrl": "https://pps.whatsapp.net/v/t61.24694-24/361655114_215823904762090_4082999867914624740_n.jpg?ccb=11-4&oh=01_AdSc2eWRIhBghEwH2B3gYqZSQnTmEouCT5YeAuyICvFxxA&oe=65D482B9&_nc_sid=e6ed6c&_nc_cat=104"
+            },
+            "tags": [
+                {
+                    "id": 259
+                },
+                {
+                    "id": 202
+                }
+            ]
+        },
+        {
+            "id": 2457399,
+            "accountId": 2,
+            "contactId": 14833,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:42.107Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457399-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:10.049Z",
+            "contact": {
+                "id": 14833,
+                "name": "Carvalima SPZ",
+                "email": "",
+                "number": "556599245521",
+                "profilePicUrl": "sacflow/accounts/2/contacts/14833/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457400,
+            "accountId": 2,
+            "contactId": 149094,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:42.663Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457400-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:32:22.324Z",
+            "contact": {
+                "id": 149094,
+                "name": "Carvalima Transporte MON",
+                "email": "",
+                "number": "556684588625",
+                "profilePicUrl": "sacflow/accounts/2/contacts/149094/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457401,
+            "accountId": 2,
+            "contactId": 488519,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:42.839Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457401-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:27.036Z",
+            "contact": {
+                "id": 488519,
+                "name": "Bot",
+                "email": "",
+                "number": "556634381105",
+                "profilePicUrl": "sacflow/accounts/2/contacts/488519/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457402,
+            "accountId": 2,
+            "contactId": 2444,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:43.103Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457402-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:08.382Z",
+            "contact": {
+                "id": 2444,
+                "name": "Amilton Carvalima BGA",
+                "email": "",
+                "number": "556699711378",
+                "profilePicUrl": "sacflow/accounts/2/contacts/2444/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457403,
+            "accountId": 2,
+            "contactId": 4809,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:43.224Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457403-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:08.405Z",
+            "contact": {
+                "id": 4809,
+                "name": "Carvalima Transportes BGA",
+                "email": "",
+                "number": "556699325695",
+                "profilePicUrl": "sacflow/accounts/2/contacts/4809/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457404,
+            "accountId": 2,
+            "contactId": 478534,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:43.251Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457404-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:08.546Z",
+            "contact": {
+                "id": 478534,
+                "name": "FRANCIELE BGA",
+                "email": "",
+                "number": "556699687619",
+                "profilePicUrl": "sacflow/accounts/2/contacts/478534/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457405,
+            "accountId": 2,
+            "contactId": 488506,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:43.351Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457405-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:32:30.007Z",
+            "contact": {
+                "id": 488506,
+                "name": "Bot",
+                "email": "",
+                "number": "556630285139",
+                "profilePicUrl": "sacflow/accounts/2/contacts/488506/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457406,
+            "accountId": 2,
+            "contactId": 1533,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:43.616Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457406-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:09.169Z",
+            "contact": {
+                "id": 1533,
+                "name": "RONI LRV",
+                "email": "",
+                "number": "556599077834",
+                "profilePicUrl": "sacflow/accounts/2/contacts/1533/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                },
+                {
+                    "id": 259
+                }
+            ]
+        },
+        {
+            "id": 2457407,
+            "accountId": 2,
+            "contactId": 3370,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:43.817Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457407-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:09.233Z",
+            "contact": {
+                "id": 3370,
+                "name": "MARINA",
+                "email": null,
+                "number": "556699328312",
+                "profilePicUrl": "sacflow/accounts/2/contacts/3370/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457408,
+            "accountId": 2,
+            "contactId": 127993,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:44.043Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457408-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:08.387Z",
+            "contact": {
+                "id": 127993,
+                "name": "Unidade Alta Floresta",
+                "email": "",
+                "number": "556635212163",
+                "profilePicUrl": "sacflow/accounts/2/contacts/127993/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457409,
+            "accountId": 2,
+            "contactId": 2637,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:44.196Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457409-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:09.594Z",
+            "contact": {
+                "id": 2637,
+                "name": "ROBERTO BBR",
+                "email": "",
+                "number": "556599567075",
+                "profilePicUrl": "sacflow/accounts/2/contacts/2637/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457410,
+            "accountId": 2,
+            "contactId": 3776,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:44.385Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457410-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:19.946Z",
+            "contact": {
+                "id": 3776,
+                "name": "Carvalima Transportes Araputanga",
+                "email": "",
+                "number": "556532612600",
+                "profilePicUrl": "sacflow/accounts/2/contacts/3776/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457411,
+            "accountId": 2,
+            "contactId": 37449,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:44.780Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457411-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:09.817Z",
+            "contact": {
+                "id": 37449,
+                "name": "terra norte",
+                "email": "",
+                "number": "556699333727",
+                "profilePicUrl": "sacflow/accounts/2/contacts/37449/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457412,
+            "accountId": 2,
+            "contactId": 1905,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:45.388Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457412-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:10.701Z",
+            "contact": {
+                "id": 1905,
+                "name": "Juruena - Barreto",
+                "email": "",
+                "number": "556684589961",
+                "profilePicUrl": "sacflow/accounts/2/contacts/1905/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        },
+        {
+            "id": 2457413,
+            "accountId": 2,
+            "contactId": 1232,
+            "channel": "whatsapp",
+            "createdAt": "2024-02-10T11:32:45.757Z",
+            "closedAt": "2024-07-10T21:57:08.729Z",
+            "feedbackScore": null,
+            "summary": null,
+            "queueId": 560,
+            "queue": {
+                "id": 560,
+                "name": "Notificação - Pendencia "
+            },
+            "acceptedAt": null,
+            "archived": false,
+            "status": "closed",
+            "userId": null,
+            "user": {
+                "id": null,
+                "name": null
+            },
+            "uniqueKey": "2457413-59-df2177f8-0175-4636-ae74-54ad986d66cb",
+            "whatsappId": 59,
+            "updatedAt": "2024-02-11T05:34:11.449Z",
+            "contact": {
+                "id": 1232,
+                "name": "Loelia Carvalima S",
+                "email": "",
+                "number": "559391318660",
+                "profilePicUrl": "sacflow/accounts/2/contacts/1232/profile-picture"
+            },
+            "tags": [
+                {
+                    "id": 955
+                }
+            ]
+        }
+    ]
+}

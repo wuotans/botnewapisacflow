@@ -1,0 +1,10 @@
+
+lpython:S1192Ò"LDefine a constant instead of duplicating this literal 'html.parser' 3 times.(´ÈñÉ8±å††İ1
+Ipython:S1481J"%Remove the unused local variable "e".(¼–¯¸ÿÿÿÿÿ8²å††İ1
+Gpython:S1481„"'Remove the unused local variable "img".(×—Š8²å††İ1
+Cpython:S125­"Remove this commented out code.(¥¬ªÕùÿÿÿÿ8²å††İ1
+Jpython:S1481É"%Remove the unused local variable "e".(ÉÊøÿÿÿÿ8²å††İ1
+>python:S125ê"Remove this commented out code.(¯šî©8—Èşıû1
+Npython:S1940Ï")Use the opposite operator ("!=") instead.(ÿ«Üîúÿÿÿÿ8²å††İ1
+Cpython:S125½"Remove this commented out code.(Ê»Û‡øÿÿÿÿ8²å††İ1
+Epython:S1481³"%Remove the unused local variable "i".(×úÎ8²å††İ1

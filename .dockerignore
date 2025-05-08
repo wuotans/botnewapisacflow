@@ -1,0 +1,10 @@
+#example of ignoring .git and python cache folder
+#.env
+.git
+__pycache__
+.gitattributes
+.gitignore
+.idea
+venv/
+*.bat
+Dockerfile*

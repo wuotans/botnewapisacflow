@@ -1,0 +1,100 @@
+stages:
+  - deploy
+
+workflow:
+  rules:
+    # Regra para verificar se a variável EXECUTE_PIPELINE é definida como "true"
+    - if: '$EXECUTE_PIPELINE == "true"'
+    - when: never  # Não executa por padrão a cada commit
+
+deploy:
+  stage: deploy
+  image: alpine:latest
+  script:
+    - apk add --no-cache curl openssh-client sshpass docker-compose sudo  # Instala dependências necessárias
+
+    # Testa conexão SSH
+    - sshpass -p "$SSH_PASSWORD_60" ssh -o StrictHostKeyChecking=no "$SSH_USER_60"@10.0.20.60
+    - sudo -i
+    - ls
+
+    # Exporta variáveis de ambiente
+    - export PG_HOST_CARVALIMA=$PG_HOST_CARVALIMA
+    - export PG_DBNAME_CARVALIMA=$PG_DBNAME_CARVALIMA
+    - export PG_USER_CARVALIMA=$PG_USER_CARVALIMA
+    - export PG_PASSWORD_CARVALIMA=$PG_PASSWORD_CARVALIMA
+    - export PG_SSLMODE_CARVALIMA=$PG_SSLMODE_CARVALIMA
+    - export PG_PORT_CARVALIMA=$PG_PORT_CARVALIMA
+    - export PG_HOST_BOTSCARVALIMA=$PG_HOST_BOTSCARVALIMA
+    - export PG_DBNAME_BOTSCARVALIMA=$PG_DBNAME_BOTSCARVALIMA
+    - export PG_USER_BOTSCARVALIMA=$PG_USER_BOTSCARVALIMA
+    - export PG_PASSWORD_BOTSCARVALIMA=$PG_PASSWORD_BOTSCARVALIMA
+    - export PG_SSLMODE_BOTSCARVALIMA=$PG_SSLMODE_BOTSCARVALIMA
+    - export PG_PORT_BOTSCARVALIMA=$PG_PORT_BOTSCARVALIMA
+    - export SSW_DOMINIO=$SSW_DOMINIO
+    - export SSW_CPF=$SSW_CPF
+    - export SSW_USUARIO=$SSW_USUARIO
+    - export SSW_SENHA=$SSW_SENHA
+    - export SSW_UNIDADE=$SSW_UNIDADE
+    - export FTP_USUARIO=$FTP_USUARIO
+    - export FTP_DAFITI_PORT=$FTP_DAFITI_PORT
+    - export FTP_DAFITI_USERNAME=$FTP_DAFITI_USERNAME
+    - export FTP_DAFITI_PASSWORD=$FTP_DAFITI_PASSWORD
+    - export FTP_DAFITI_HOSTNAME=$FTP_DAFITI_HOSTNAME
+    - export WEBMAIL_USUARIO=$WEBMAIL_USUARIO
+    - export WEBMAIL_SENHA=$WEBMAIL_SENHA
+    - export SSW_MASTER_DOMINIO=$SSW_MASTER_DOMINIO
+    - export SSW_MASTER_CPF=$SSW_MASTER_CPF
+    - export SSW_MASTER_USUARIO=$SSW_MASTER_USUARIO
+    - export SSW_MASTER_SENHA=$SSW_MASTER_SENHA
+    - export SSW_MASTER_UNIDADE=$SSW_MASTER_UNIDADE
+    - export DOMAIN_USERNAME=$DOMAIN_USERNAME
+    - export DOMAIN_PASSWORD=$DOMAIN_PASSWORD
+    - export OPENTECH_LOGIN=$OPENTECH_LOGIN
+    - export OPENTECH_SENHA=$OPENTECH_SENHA
+    - export SCALAS_HOST=$SCALAS_HOST
+    - export SCALAS_PORT=$SCALAS_PORT
+    - export SCALAS_SENHA=$SCALAS_SENHA
+    - export SCALAS_USUARIO=$SCALAS_USUARIO
+    - export TIME_SLEEP_BOT_SCALAS=$TIME_SLEEP_BOT_SCALAS
+    - export SACFLOW_API_TOKEN=$SACFLOW_API_TOKEN
+
+    # Navega para o diretório do projeto
+    - ls
+
+    # Inicia os serviços com Docker Compose
+    - docker-compose up --build
+
+  after_script:
+    - |
+      # Logs para depuração
+      echo "CI_JOB_STATUS is: $CI_JOB_STATUS"
+      echo "GITLAB_USER_LOGIN is: $GITLAB_USER_LOGIN"  # Exibindo o nome do usuário
+
+      # Verifica o status do job atual
+      if [[ "$CI_JOB_STATUS" == "success" ]]; then
+        STATUS="✅ Success"
+      else
+        STATUS="❌ Failed"
+      fi
+
+      # Cria a mensagem a ser enviada ao Discord, incluindo o usuário
+      MESSAGE="**Pipeline Status:** $STATUS\n**Project:** $CI_PROJECT_NAME\n**Branch:** $CI_COMMIT_REF_NAME\n**Pipeline URL:** $CI_PIPELINE_URL\n**Triggered by:** $GITLAB_USER_LOGIN"
+
+      # Logs para depuração
+      echo "Message to send: $MESSAGE"
+      echo "Webhook URL: $DISCORD_WEBHOOK_URL"
+
+      # Verifica se a mensagem foi gerada corretamente
+      if [ -n "$MESSAGE" ]; then
+        # Envia a notificação ao Discord
+        curl -X POST -H 'Content-Type: application/json' \
+        -d "{\"content\": \"$MESSAGE\"}" \
+        "$DISCORD_WEBHOOK_URL"
+      else
+        echo "No message to send"
+      fi
+
+  tags:
+    - run  # Certifique-se de que seu runner tem essa tag
+
